@@ -1,0 +1,7 @@
+D:\Project\@@해경\aisDataCreate\aisDataCreate\bin\Debug\aisDataCreate.exe.config
+D:\Project\@@해경\aisDataCreate\aisDataCreate\bin\Debug\aisDataCreate.exe
+D:\Project\@@해경\aisDataCreate\aisDataCreate\bin\Debug\aisDataCreate.pdb
+D:\Project\@@해경\aisDataCreate\aisDataCreate\obj\Debug\aisDataCreate.csproj.AssemblyReference.cache
+D:\Project\@@해경\aisDataCreate\aisDataCreate\obj\Debug\aisDataCreate.csproj.CoreCompileInputs.cache
+D:\Project\@@해경\aisDataCreate\aisDataCreate\obj\Debug\aisDataCreate.exe
+D:\Project\@@해경\aisDataCreate\aisDataCreate\obj\Debug\aisDataCreate.pdb
